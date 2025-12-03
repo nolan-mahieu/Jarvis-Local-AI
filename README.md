@@ -1,5 +1,8 @@
 \# 🤖 J.A.R.V.I.S - Local AI Station
 
+<div align="center">
+  <img src="interface.png" alt="Interface Jarvis" width="800">
+</div>
 
 
 Une station d'Intelligence Artificielle multimodale, souveraine et autonome, conçue pour tourner 100% en local sur du matériel grand public (GPU AMD/NVIDIA).
@@ -104,5 +107,6 @@ Ce projet utilise des modèles d'IA (LLM) qui doivent être téléchargés et st
 👤 Auteur
 
 Projet réalisé par Nolan.
+
 
 
