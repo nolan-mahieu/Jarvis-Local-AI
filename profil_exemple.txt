@@ -1,0 +1,3 @@
+Je m'appelle {mais ton nom}
+j'ai {t'on age}
+T'es infos perso {passion - activité - etc.}
