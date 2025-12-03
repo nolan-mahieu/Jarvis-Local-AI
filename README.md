@@ -46,6 +46,17 @@ Ce projet n'est pas un simple chatbot. C'est un assistant système complet capab
 
 \## 📦 Installation
 
+### 💾 Prérequis Stockage (Important)
+
+Ce projet utilise des modèles d'IA (LLM) qui doivent être téléchargés et stockés localement sur votre machine. Assurez-vous d'avoir suffisamment d'espace libre :
+
+| Modèle | Taille approx. | Usage |
+| :--- | :--- | :--- |
+| **Llama 3.1 (8B)** | ~4.7 Go | Modèle rapide par défaut |
+| **LLaVA** | ~4.5 Go | Vision (Analyse d'images) |
+| **Mixtral (Optionnel)** | ~26.0 Go | Modèle complexe (Expert) |
+
+> **💡 Recommandation :** Prévoyez au moins **40 Go d'espace libre** sur un **SSD** (fortement recommandé pour la vitesse de réponse).
 
 
 1\. \*\*Prérequis :\*\* Avoir \[Ollama](https://ollama.com) installé.
@@ -93,4 +104,5 @@ Ce projet n'est pas un simple chatbot. C'est un assistant système complet capab
 👤 Auteur
 
 Projet réalisé par Nolan.
+
 
